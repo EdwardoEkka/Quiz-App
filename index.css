@@ -1,0 +1,37 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+#qa-list{
+    width:500px;
+}
+
+.main-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.nav{
+    width: 100%;
+    height:50px;
+    display: flex;
+    position: sticky;
+    top:0;
+    align-items: center;
+    justify-content: center;
+    background-color: #14213D;
+    color: white;
+    margin: 0;
+    font-size: 24px;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(61, 95, 196);
+    border-radius: 3px;
+}
